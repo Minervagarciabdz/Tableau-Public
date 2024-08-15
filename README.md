@@ -10,7 +10,7 @@ Este análisis tiene la finalizad de identificar patrones, tendencias y/o áreas
 
 ## Resultados del Análisis
 
-1.- En el análisis de pudo observar que a excepción del área de Executive Office, los salarios promedios más altos se encuentran principalmente en los departamentos de IT/IS y Sotware Engineering tanto para miembros del genéro Masculino como Femenino, lo que sigiere una equidad salarial en lo referente al género de los empleados.
+1.- En el análisis de pudo observar que a excepción del área de Executive Office, los salarios promedios más altos se encuentran principalmente en los departamentos de IT/IS y Sotware Engineering tanto para miembros del genéro Masculino como Femenino, lo que sugiere una equidad salarial en lo referente al género de los empleados.
 
 ![Captura de pantalla 2024-08-14 192715](https://github.com/user-attachments/assets/c081390f-acb0-44fb-9344-4b2b3cd1a9ba)
 
