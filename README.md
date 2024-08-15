@@ -24,8 +24,8 @@ Este análisis tiene la finalizad de identificar patrones, tendencias y/o áreas
 
 4.- A base de retreomalimentación se revisarón las principales razones por las cúales los empleados terminan su contrato, entre ellas podemos encontrar las siguientes:
 
-    1. Cambio a otra posicion
-    2. **Infelicidad**
+    1. Cambio a otra posición
+    2. Infelicidad
     3. Busca de mayores ingresos
     4. Cambio de carrera
     5. Las horas de trabajo
